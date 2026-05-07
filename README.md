@@ -1,9 +1,3 @@
-Since this is for a lab submission, a "bigger" README usually means adding more technical depth, explaining the underlying theory (Chomsky hierarchy, Automata), and providing a clear guide on how to run the code.
-
-Here is a comprehensive, professional `README.md` for **Variant 2**.
-
----
-
 # Regular Expression Interpreter & String Generator
 **Course:** Formal Languages and Automata Theory  
 **Lab Assignment:** Dynamic Regex Parsing  
