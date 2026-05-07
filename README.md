@@ -1,7 +1,6 @@
 # Regular Expression Interpreter & String Generator
 **Course:** Formal Languages and Automata Theory  
 **Lab Assignment:** Dynamic Regex Parsing  
-**Student:** [Your Name]  
 **Variant:** 2  
 
 ---
